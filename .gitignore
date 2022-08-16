@@ -1,0 +1,5 @@
+# Ignore Intellij project files and idea directory
+.idea/
+*.iml
+*.ipr
+*.iws
